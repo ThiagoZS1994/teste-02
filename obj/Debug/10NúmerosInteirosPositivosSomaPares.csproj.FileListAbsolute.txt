@@ -1,0 +1,8 @@
+C:\Users\Thiago\Desktop\Visual Studio\10NúmerosInteirosPositivosSomaPares\bin\Debug\10NúmerosInteirosPositivosSomaPares.exe.config
+C:\Users\Thiago\Desktop\Visual Studio\10NúmerosInteirosPositivosSomaPares\bin\Debug\10NúmerosInteirosPositivosSomaPares.exe
+C:\Users\Thiago\Desktop\Visual Studio\10NúmerosInteirosPositivosSomaPares\bin\Debug\10NúmerosInteirosPositivosSomaPares.pdb
+C:\Users\Thiago\Desktop\Visual Studio\10NúmerosInteirosPositivosSomaPares\obj\Debug\10NúmerosInteirosPositivosSomaPares.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\Visual Studio\10NúmerosInteirosPositivosSomaPares\obj\Debug\10NúmerosInteirosPositivosSomaPares.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thiago\Desktop\Visual Studio\10NúmerosInteirosPositivosSomaPares\obj\Debug\10NúmerosInteirosPositivosSomaPares.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Visual Studio\10NúmerosInteirosPositivosSomaPares\obj\Debug\10NúmerosInteirosPositivosSomaPares.exe
+C:\Users\Thiago\Desktop\Visual Studio\10NúmerosInteirosPositivosSomaPares\obj\Debug\10NúmerosInteirosPositivosSomaPares.pdb
